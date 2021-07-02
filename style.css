@@ -1,0 +1,32 @@
+
+body {
+    background-color:white;
+    margin:20px anto;
+}
+img {
+    width: auto;
+    height: 65px;
+    margin-left: 15px;
+}
+#about-us {
+    margin-left: 37px;
+}
+#be-a-partner {
+    margin-left: 55px;
+}
+#share {
+    margin-left: 40px;
+}
+a {
+    margin: 5px;
+}
+#main-image {
+    width: auto;
+    height: 250px;
+    border: 5px inset aquamarine;
+}
+#end {
+    font-family:fantasy;
+    font-size: 20px;
+    text-decoration: none;
+}
