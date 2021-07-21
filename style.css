@@ -2,6 +2,7 @@
 body {
     background-color:white;
     margin:20px anto;
+   
 }
 img {
     width: auto;
@@ -29,4 +30,7 @@ a {
     font-family:fantasy;
     font-size: 20px;
     text-decoration: none;
+}
+#text {
+	font-weight: bold;
 }
